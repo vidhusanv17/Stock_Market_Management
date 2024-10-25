@@ -38,10 +38,8 @@ git clone https://github.com/vidhusanv17/Stock_Market_Management.git
 cd Stock_Market_Management
 ```
 
-### Install the required Python packages, including Tkinter (if necessary):
-```bash
-pip install -r requirements.txt
-```
+### Install the required Python packages
+***Tkinter***
 
 ## Usage
 
